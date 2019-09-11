@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://geiceingo.berkut.lviv.ua/sitemap.xml
